@@ -8,13 +8,15 @@
 
 | 날짜 | 작성자 | 키워드 | 제목 |
 |:--:|:--:|:--:|:--:|
-| `07/` | `현규` | `Essential`, `WWDC22` | [Hello Swift Charts](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/15) |
-| `07/19` | `현규` | `Essential`, `WWDC22` | [What's new in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/19) |
+| `08/02` | `현규` | `Essential`, `WWDC22` | [What's new in App Store Connect](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/22) |
+| `07/31` | `태현` | `WWDC21` | [Customize and resize sheets in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/21) |
+| `07/31` | `현규` | `Essential`, `WWDC22` | [What's new in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/19) |
+| `07/31` | `윤아` | `Essential`, `WWDC22` | [What's new in Swift](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/14) |
 | `07/12` | `태현` | `Swift`, `WWDC22` | [Architecting Your App for Multiple Windows](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/18) |
 | `07/12` | `현규` | `Essential`, `WWDC22` | [What's new in the Photos picker](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/17) |
-| `07/6` | `윤아` | `Design`, `WWDC22` | [What's new in SF Symbols 4](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/16) |
-| `07/6` | `현규` | `Essential`, `WWDC22` | [Hello Swift Charts](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/15) |
-| `07/6` | `윤아` | `Swift`, `WWDC19` | [LLDB: Beyond “po”](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/13) |
+| `07/06` | `윤아` | `Design`, `WWDC22` | [What's new in SF Symbols 4](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/16) |
+| `07/06` | `현규` | `Essential`, `WWDC22` | [Hello Swift Charts](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/15) |
+| `07/06` | `윤아` | `Swift`, `WWDC19` | [LLDB: Beyond “po”](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/13) |
 | `06/21` | `윤아` | `Swift`, `WWDC21` | [Discover breakpoint improvements](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/12) |
 | `06/21` | `태현` | `Safari and Web`, `WWDC21` | [Meet WeatherKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/11) |
 | `06/21` | `현규` | `Swift`, `WWDC22` | [Design protocol interfaces in Swift](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/10) |

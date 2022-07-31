@@ -8,6 +8,7 @@
 
 | 날짜 | 작성자 | 키워드 | 제목 |
 |:--:|:--:|:--:|:--:|
+| `07/` | `현규` | `Essential`, `WWDC22` | [Hello Swift Charts](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/15) |
 | `07/19` | `현규` | `Essential`, `WWDC22` | [What's new in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/19) |
 | `07/12` | `태현` | `Swift`, `WWDC22` | [Architecting Your App for Multiple Windows](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/18) |
 | `07/12` | `현규` | `Essential`, `WWDC22` | [What's new in the Photos picker](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/17) |

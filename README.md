@@ -8,6 +8,8 @@
 
 | 날짜 | 작성자 | 키워드 | 제목 |
 |:--:|:--:|:--:|:--:|
+| `08/30` | `현규` | `Essential`, `WWDC22` | [Complications and widgets: Reloaded](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/24) |
+| `08/02` | `태현` | `WWDC19` | [Introducing Combine](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/23) |
 | `08/02` | `현규` | `Essential`, `WWDC22` | [What's new in App Store Connect](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/22) |
 | `07/31` | `태현` | `WWDC21` | [Customize and resize sheets in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/21) |
 | `07/31` | `현규` | `Essential`, `WWDC22` | [What's new in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/19) |

@@ -8,8 +8,16 @@
 
 | 날짜 | 작성자 | 키워드 | 제목 |
 |:--:|:--:|:--:|:--:|
-| `08/30` | `현규` | `Essential`, `WWDC22` | [Complications and widgets: Reloaded](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/24) |
-| `08/02` | `태현` | `WWDC19` | [Introducing Combine](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/23) |
+| `11/15` | `윤아` | `Safari&Web`, `WWDC22` | [Meet Web Push for Safari](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/32) |
+| `10/27` | `현규` | `Essential`, `WWDC22` | [Build a Watch productivity app](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/31) |
+| `10/04` | `윤아` | `UIFramework`, `WWDC22` | [Efficiency awaits: Background tasks in SwiftUI](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/30) |
+| `09/27` | `현규` | `WWDC22` | [Discover PhotoKit change history](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/29) |
+| `09/06` | `현규` | `Essential`, `WWDC22` | [Go further with Complications in WidgetKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/28) |
+| `09/06` | `태현` | `WWDC19` | [Combine in Practice](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/27) |
+| `09/06` | `윤아` | `UIFramework`, `WWDC22` | [The craft of SwiftUI API design: Progressive disclosure](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/26) |
+| `08/29` | `윤아` | `ML&Vision`, `WWDC18` | [What’s New in Core ML, Part 1](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/25) |
+| `08/10` | `현규` | `Essential`, `WWDC22` | [Complications and widgets: Reloaded](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/24) |
+| `08/09` | `태현` | `WWDC19` | [Introducing Combine](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/23) |
 | `08/02` | `현규` | `Essential`, `WWDC22` | [What's new in App Store Connect](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/22) |
 | `07/31` | `태현` | `WWDC21` | [Customize and resize sheets in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/21) |
 | `07/31` | `현규` | `Essential`, `WWDC22` | [What's new in UIKit](https://github.com/Secret-Of-SwiftUI/SSDC22/issues/19) |
